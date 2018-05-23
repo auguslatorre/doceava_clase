@@ -1,12 +1,12 @@
-Animal,Nombre científico,Habitat,Estado de conservación,Distribución
-Picaflor de Arica,Eulidia yarrellii,Matorrales valles fluviales,Peligro Crítico,Arica y Parinacota
-Gato montes andino,Leopardus jacobitus,Zonas de vegetación no muy altas,En Peligro,Tarapacá
-Chinchilla Cordillerana,Chinchilla Chinchilla,Ambientes rocosos,En Peligro,Atacama
-Becacina pintada,Nycticryphes semicollaris,Planicies encharcadas,En Peligro,Coquimbo
-Huillín,Lontra provocax,Lagos y ríos con vegetación densa,En Peligro,Araucanía
-Huemul,Hippocamelus bisulcus,Bosques,En Peligro,Aysén
-Zorro de Darwin,Lycalopex fulvipes,Bosques e Isla Grande Chiloé,En Peligro,Bio-Bío y Araucanía (+Chiloé)
-Taruca,Hippocamelus antisensis,Faldeos rocosos,Vulnerable,Tarapacá
-Picaflor de Juan Fernández,Sephanoides fernandensis,Bosques,Peligro Critico,Isla Robinson Crusoe
-Gato Colocolo,Leopardus colocolo,"Pastizales abiertos, bosques húmedos y regiones montañosas",En Peligro,Maule a Aysén
-Pingüino de Humboldt,Spheniscus humboldti,Corriente de Humboldt,Vulnerable,Arica y Parinacota a Los Lagos
+Animal,Nombre científico,Habitat,Estado de conservación,Distribución,img
+Picaflor de Arica,Eulidia yarrellii,Matorrales valles fluviales,Peligro Crítico,Arica y Parinacota,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/picaflor1.jpg
+Gato montes andino,Leopardus jacobitus,Zonas de vegetación no muy altas,En Peligro,Tarapacá,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/gatomontes.jpg
+Chinchilla Cordillerana,Chinchilla Chinchilla,Ambientes rocosos,En Peligro,Atacama,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/chinchilla.jpg
+Becacina pintada,Nycticryphes semicollaris,Planicies encharcadas,En Peligro,Coquimbo,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/pintada.jpg
+Huillín,Lontra provocax,Lagos y ríos con vegetación densa,En Peligro,Araucanía,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/huillin.jpg
+Huemul,Hippocamelus bisulcus,Bosques,En Peligro,Aysén,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/huemul.jpg
+Zorro de Darwin,Lycalopex fulvipes,Bosques e Isla Grande Chiloé,En Peligro,Bio-Bío y Araucanía (+Chiloé),https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/zorro.jpg
+Taruca,Hippocamelus antisensis,Faldeos rocosos,Vulnerable,Tarapacá,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/taruca.jpg
+Picaflor de Juan Fernández,Sephanoides fernandensis,Bosques,Peligro Critico,Isla Robinson Crusoe,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/picaflor2.jpg
+Gato Colocolo,Leopardus colocolo,"Pastizales abiertos, bosques húmedos y regiones montañosas",En Peligro,Maule a Aysén,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/gatocolocolo.jpg
+Pingüino de Humboldt,Spheniscus humboldti,Corriente de Humboldt,Vulnerable,Arica y Parinacota a Los Lagos,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/ping%C3%BCino.jpg
