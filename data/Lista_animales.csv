@@ -1,6 +1,6 @@
-Animal,Nombre científico,Habitat,Estado de conservación,Distribución,img
-Picaflor de Arica,Eulidia yarrellii,Matorrales valles fluviales,Peligro Crítico,Arica y Parinacota,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/picaflor1.jpg
-Gato montes andino,Leopardus jacobitus,Zonas de vegetación no muy altas,En Peligro,Tarapacá,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/gatomontes.jpg
+Animal,Nombre científico,Habitat,Estado de conservación,Distribución,img,img2
+Picaflor de Arica,Eulidia yarrellii,Matorrales valles fluviales,Peligro Crítico,Arica y Parinacota,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/picaflor1.jpg,http://static.t13.cl/images/sizes/1200x675/1417019408_picaflooooor.jpg
+Gato montes andino,Leopardus jacobitus,Zonas de vegetación no muy altas,En Peligro,Tarapacá,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/gatomontes.jpg,https://www.fotonaturaleza.cl/data/media/2/Gato_andino-6.jpg
 Chinchilla Cordillerana,Chinchilla Chinchilla,Ambientes rocosos,En Peligro,Atacama,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/chinchilla.jpg
 Becacina pintada,Nycticryphes semicollaris,Planicies encharcadas,En Peligro,Coquimbo,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/pintada.jpg
 Huillín,Lontra provocax,Lagos y ríos con vegetación densa,En Peligro,Araucanía,https://raw.githubusercontent.com/auguslatorre/doceava_clase/master/img/huillin.jpg
